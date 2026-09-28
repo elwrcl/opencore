@@ -1,8 +1,9 @@
-ivybridge opencore configuration for macos sequoia
+IvyBridge OPENCORE configuration for **macOS Sequoia**
 
 airdrop is not working.
 
 general information
+
 #~ lspci
 00:00.0 Host bridge: Intel Corporation 3rd Gen Core processor DRAM Controller (rev 09)
 00:01.0 PCI bridge: Intel Corporation Xeon E3-1200 v2/3rd Gen Core processor PCI Express Root Port (rev 09)
